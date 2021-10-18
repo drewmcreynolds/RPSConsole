@@ -1,0 +1,16 @@
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\RPSConsole.exe
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\RPSConsole.deps.json
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\RPSConsole.runtimeconfig.json
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\RPSConsole.runtimeconfig.dev.json
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\RPSConsole.dll
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\ref\RPSConsole.dll
+C:\source\codeworks\C#-dotnet\RPSConsole\bin\Debug\net5.0\RPSConsole.pdb
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.csproj.AssemblyReference.cache
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.AssemblyInfoInputs.cache
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.AssemblyInfo.cs
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.csproj.CoreCompileInputs.cache
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.dll
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\ref\RPSConsole.dll
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.pdb
+C:\source\codeworks\C#-dotnet\RPSConsole\obj\Debug\net5.0\RPSConsole.genruntimeconfig.cache
